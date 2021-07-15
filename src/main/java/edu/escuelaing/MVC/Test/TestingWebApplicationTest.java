@@ -1,6 +1,5 @@
 package edu.escuelaing.MVC.Test;
 
-import org.junit.Test;
 import static org.hamcrest.Matchers.containsString;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
